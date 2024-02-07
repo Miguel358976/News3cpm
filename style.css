@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(to right top,white,rgb(211, 202, 202),green,darkgreen);
+}
+.menu{
+    background-color: white;
+    font-family:cursive;
+   float: top;
+    cursor: pointer;
+    color:black;
+    border-radius: 20px;
+   }
+
+   img{
+    width: 250px;
+    border-radius: 15px;
+   }
+   p{
+    font-family: cursive;
+    font-size: larger;
+   }
+   .logo{
+    width: 150px;
+   }
+.news{
+    background-color: gray;
+    border-radius: 15px;
+}
+
+.button{
+    font-family: cursive;
+    background-color: rgb(235, 230, 230);
+    border-radius: 15px;
+}
+title{
+    background-color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.news1{
+    background-color: white;
+    font-family: fantasy;
+}
